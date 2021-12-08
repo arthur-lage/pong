@@ -1,6 +1,6 @@
 # pong
 
-<img src="https://imgur.com/a/5Gn75Re" />
+<img src="https://i.imgur.com/zZ0GODi.png" />
 
 ✉ About
 
